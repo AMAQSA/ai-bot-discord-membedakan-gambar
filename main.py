@@ -31,4 +31,4 @@ async def check(ctx):
     else:
         await ctx.send("Anda lupa mengunggah gambar :(")
 
-bot.run("MTEwNjgwNTAxMDI5NTE3MzE3MA.GZaesC.yVxjtfP4cBDW56cxRFCGhKE8bpNw8I79PEk32U")
+bot.run("TOKEN")
