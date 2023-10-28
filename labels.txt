@@ -1,0 +1,5 @@
+0 burung pipit
+1 elang
+2 harry
+3 jeruk
+4 merpati
